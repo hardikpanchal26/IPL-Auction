@@ -2,6 +2,8 @@
 
 * This software facilitates the Auction process for the team owners by helping them keep their statistics proper and maintain a competitive team, if used efficiently while the Auction process is going on.
 * The software is completely written in C++.
+* The code runs on TurboC++ and Borland IDE.
+* The project uses PLAYERS.TXT text file for data storage and retrieval. Please add it to the bin folder.
 ---
 
 1. Welcome Screen  
